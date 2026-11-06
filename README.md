@@ -4,6 +4,7 @@
 
 Welcome to my GitHub! I’m a passionate youth developer and creator dedicated to building smart, impact-driven software solutions and transforming digital tools into vehicles for real-world impact.
 
+-
 
 🌟 About Me:
 
@@ -15,8 +16,9 @@ Welcome to my GitHub! I’m a passionate youth developer and creator dedicated t
 
 🔬 Exploring: Deep diving into quantum physics concepts, front-end architecture, and practical e-commerce design.
 
+-
 
-Technologies & Tools
+📱 Technologies & Tools
 
 -> Languages & Frameworks: 🎯 Dart • 💙 Flutter • 🌐 HTML/CSS
 
@@ -24,6 +26,7 @@ Technologies & Tools
 
 -> Design & Media: 🎨 Canva • 🎬 CapCut • 💻 VS Code
 
+-
 
 📌 Featured Focus & Projects
 
@@ -31,6 +34,7 @@ Technologies & Tools
 
 └── 📚 Digital Portfolio & Guides       # Assets empowering youth productivity & digital skill-building
 
+-
 
 💬 Ask me about: Mobile app ideas, UI/UX structure, or creative project ideas!
 
